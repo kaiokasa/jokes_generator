@@ -1,0 +1,9 @@
+"# Ignore large files 
+raw/
+processed/
+splits/
+outputs/
+checkpoints/
+__pycache__/
+*.pyc
+venv/" 

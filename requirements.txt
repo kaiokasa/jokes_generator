@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+accelerate
+peft
+safetensors
+evaluate
+numpy
+pandas
+scikit-learn
+tqdm
+jsonlines
